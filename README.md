@@ -1,2 +1,0 @@
-# optimizaclick_test
-FizzBuzz
